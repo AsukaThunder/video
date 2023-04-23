@@ -1,0 +1,24 @@
+[
+{
+"id": 0,
+"key": "茶杯壶",
+"name": "茶杯壶",
+"api": "https://cupfox.app/",
+"jiexiUrl": "",
+"group": "#官方解析",
+"isActive": true,
+"status": "可用",
+"reverseOrder": false
+},
+{
+"id": 0,
+"key": "影猫の仓库",
+"name": "影猫の仓库",
+"api": "https://search.ymck.me/",
+"jiexiUrl": "",
+"group": "#官方解析",
+"isActive": true,
+"status": "可用",
+"reverseOrder": false
+}
+]
